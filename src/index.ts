@@ -13,4 +13,5 @@ export {
   validateLocation,
   validateQueryCriteria,
 } from './api/validate';
+export * from './utils';
 export * from './definitions';
